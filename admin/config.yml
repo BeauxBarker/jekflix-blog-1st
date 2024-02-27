@@ -6,7 +6,7 @@ publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
 
 local_backend: true
-logo_url: https://blogbybeaux.netlify.app/assets/img/BB-logo.png
+logo_url: https://blogbybeaux.netlify.app/assets/img/nbg.png
 
 collections:
   - label: "Categories"
