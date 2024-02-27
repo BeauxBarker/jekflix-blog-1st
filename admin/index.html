@@ -330,23 +330,32 @@
     // });
   </script>
   <script>
+    const observer = new MutationObserver(mutations => {
+    mutations.forEach(mutation => {
+        mutation.addedNodes.forEach(node => {
+            if (node.nodeType === 1 && node.matches('.css-15mesr9-IconWrapper-NetlifyCreditIcon')) { // Check if it's an element node
+                // Your code to replace the SVG goes here
+                observer.disconnect(); // Optional: disconnect observer if no longer needed
+            }
+        });
+    });
+});
+
+observer.observe(document.body, { childList: true, subtree: true });
       document.addEventListener("DOMContentLoaded", function() {
     // Select the element by its class
     var targetElement = document.querySelector('.css-15mesr9-IconWrapper-NetlifyCreditIcon');
   
-    if (targetElement) {
-      // Create an img element
-      var imgElement = document.createElement('img');
-      imgElement.src = 'assets/img/BB-logo.png'; // Update the path to your image
-      imgElement.alt = 'Descriptive text';
-  
-      // Clear the contents of the target element
-      targetElement.innerHTML = '';
-  
-      // Append the img element to the target element
-      targetElement.appendChild(imgElement);
+const elements = document.querySelectorAll('.css-15mesr9-IconWrapper-NetlifyCreditIcon');
+elements.forEach(element => {
+    // Assuming the SVG is a direct child, you can replace it as follows
+    const img = document.createElement('img');
+    img.src = 'assets/img/BB-logo.png'; 
+    while (element.firstChild) {
+        element.removeChild(element.firstChild); // Remove existing children (e.g., the SVG)
     }
-  });
+    element.appendChild(img); // Add the new image
+});
   </script>
 
 </body>
