@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master
+  logo_url: https://blogbybeaux.netlify.app/assets/img/BB-logo.png
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
 collections:
