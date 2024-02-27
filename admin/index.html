@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Content Manager</title>
+  <title>Blog By Beaux</title>
+
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
@@ -328,5 +329,25 @@
     //   }
     // });
   </script>
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+    // Select the element by its class
+    var targetElement = document.querySelector('.css-15mesr9-IconWrapper-NetlifyCreditIcon');
+  
+    if (targetElement) {
+      // Create an img element
+      var imgElement = document.createElement('img');
+      imgElement.src = 'assets/img/BB-logo.png'; // Update the path to your image
+      imgElement.alt = 'Descriptive text';
+  
+      // Clear the contents of the target element
+      targetElement.innerHTML = '';
+  
+      // Append the img element to the target element
+      targetElement.appendChild(imgElement);
+    }
+  });
+  </script>
+
 </body>
 </html>
