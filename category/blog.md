@@ -1,7 +1,6 @@
 ---
 layout: category
-title: Blog
+title: News
 slug: blog
-description: A category for general blog posts.
+description: Latest new on AI.
 ---
-
