@@ -1,7 +1,7 @@
 # Site Settings
-name: Beaux
-title: Beaux | A blog 
-description: A blog by 
+name: Byte Into AI
+title: Byte Into AI | A blog 
+description: A blog by Beaux
 tags:
   - blog
   - template
@@ -16,8 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: Category
+    url: /categories
 email: beauxbarker@gmail.com
 # See: https://disqus.com/
 disqus_username: blogbybeaux
