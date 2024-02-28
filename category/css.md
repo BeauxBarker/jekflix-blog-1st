@@ -1,6 +1,6 @@
 ---
 layout: category
-title: CSS
+title: Investing
 slug: css
-description: A category for CSS related posts.
+description: ""
 ---
