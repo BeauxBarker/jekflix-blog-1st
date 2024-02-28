@@ -1,5 +1,5 @@
 ---
 layout: category
 title: News
-slug: news
+slug: "{{slug}}"
 ---
