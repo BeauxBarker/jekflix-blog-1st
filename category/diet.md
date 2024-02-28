@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Diet
+title: Art
 slug: diet
 description: A category for diet related posts.
 ---
