@@ -15,7 +15,7 @@ collections:
     create: true
     editor:
       preview: false
-    slug: "{{title | slugify}}"
+    slug: "{{slug}}"
     preview_path: "category/{{slug}}"
     extension: "md"
     fields:
@@ -29,7 +29,7 @@ collections:
       - label: "Slug"
         name: "slug"
         widget: "hidden"
-        default: "{{title | slugify}}"
+        default: "{{slug}}"
       - label: "Description"
         name: "description"
         widget: "string"
@@ -101,7 +101,7 @@ collections:
     name: "pages"
     folder: "pages"
     create: true
-    slug: "{{title | slugify}}"
+    slug: "{{slug}}"
     preview_path: "{{slug}}"
     extension: "md"
     fields:
@@ -123,7 +123,7 @@ collections:
       - label: "Permalink"
         name: "permalink"
         widget: "hidden"
-        default: "/{{title | slugify}}/"
+        default: "/{{slug}}/"
       - label: "Description"
         name: "description"
         hint: "This will be used as description for search engines."
