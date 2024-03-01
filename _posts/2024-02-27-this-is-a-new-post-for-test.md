@@ -5,7 +5,7 @@ title: This is a new post for test
 subtitle: The subtitle for testing
 description: "This is the description for testing purposes. "
 image: /assets/img/uploads/rendy-novantino-phc_jdliwu-unsplash.jpg
-category: blog
+category: investing
 author: Beaux
 paginate: false
 ---

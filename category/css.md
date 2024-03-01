@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Investing
-slug: css
+slug: investing
 description: ""
 ---
