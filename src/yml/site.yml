@@ -20,6 +20,6 @@ menu:
   - title: Feed
     url: /feed.xml
   - title: Category
-    url: /category
+    url: /categories
 email: contact@beaux.dev
 disqus_username: disqus_username
