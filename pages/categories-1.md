@@ -9,6 +9,6 @@ permalink: /categories/
 
 <ul>
 {% for category in site.categories %}
-  <li><a href="{{ '/categories/' | append: category | first | slugify }}">{{ category | first }}</a></li>
+  <li><a href="{{ '/category/' | append: category | first | slugify }}">{{ category | first }}</a></li>
 {% endfor %}
 </ul>
