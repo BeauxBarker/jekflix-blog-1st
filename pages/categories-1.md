@@ -5,4 +5,10 @@ date: 2024-03-01 15:18:36
 title: Categories
 permalink: /categories/
 ---
-T﻿his is a new page
+<h1>{{ page.title }}</h1>
+
+<ul>
+{% for category in site.categories %}
+  <li><a href="{{ '/categories/' | append: category | first | slugify }}">{{ category | first }}</a></li>
+{% endfor %}
+</ul>
