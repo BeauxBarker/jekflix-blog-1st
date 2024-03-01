@@ -28,8 +28,10 @@ collections:
         widget: "string"
       - label: "Slug"
         name: "slug"
-        widget: "hidden"
-        default: "{{slug}}"
+        widget: "string"  
+        hint: "Enter a URL-friendly slug. This will be used in the category's URL."
+        pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', 'Slug must be lowercase and contain only letters, numbers, and dashes']
+        required: true  
       - label: "Description"
         name: "description"
         widget: "string"
