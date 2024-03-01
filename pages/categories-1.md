@@ -8,7 +8,9 @@ permalink: /categories/
 <h1>{{ page.title }}</h1>
 
 <ul>
-{% for category in site.categories %}
-  <li><a href="{{ '/category/' | append: category | first | slugify }}">{{ category | first }}</a></li>
-{% endfor %}
+  {% for category in site.categories %}
+    {% assign slugified_category = category | first | slugify %}
+    <!-- Debug: Display the slugified category -->
+    <li>Slug: {{ slugified_category }} - <a href="/category/{{ slugified_category }}">{{ category | first }}</a></li>
+  {% endfor %}
 </ul>
