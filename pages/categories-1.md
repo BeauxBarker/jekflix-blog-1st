@@ -23,6 +23,7 @@ permalink: /categories/
 
 .categories-title{
   background-color: #ED1C24;
+  border-radius: 10px; 
 }
   
 .categories-cards {
@@ -30,7 +31,7 @@ permalink: /categories/
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
-  border-radius: 10px; 
+  
 }
 
 .category-card {
@@ -42,7 +43,7 @@ permalink: /categories/
   justify-content: center;
   align-items: center;
   border-radius: 10px; 
-  box-shadow: 0 6px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 6px 6px rgba(237,28,36,0.1);
 }
 
 .category-card h2 {
