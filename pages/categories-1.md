@@ -7,22 +7,25 @@ permalink: /categories/
 ---
 <h1>{{ page.title }}</h1>
 
-<div class="categories-cards">
-{% for category in site.categories %}
-  <div class="category-card" style="background-image: url('https://source.unsplash.com/random/300x200?{{ category | first | slugify }}');">
-    <a href="/category/{{ category | first | slugify }}">
-      <h2>{{ category | first }}</h2>
-    </a>
+  <div class="categories-cards">
+  {% for category in site.categories %}
+    <div class="category-card" style="background-image: url('https://source.unsplash.com/random/300x200?{{ category | first | slugify }}');">
+      <a href="/category/{{ category | first | slugify }}">
+        <h2>{{ category | first }}</h2>
+      </a>
+    </div>
+  {% endfor %}
   </div>
-{% endfor %}
-</div>
+
 
 <style>
+
 .categories-cards {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
+  max-width: 800px;
 }
 
 .category-card {
