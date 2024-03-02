@@ -5,9 +5,10 @@ date: 2024-03-01 15:18:36
 title: Categories
 permalink: /categories/
 ---
-<h1>{{ page.title }}</h1>
+
 
   <div class="categories-cards">
+  <h1 class="categories-title">{{ page.title }}</h1>
   {% for category in site.categories %}
     <div class="category-card" style="background-image: url('https://source.unsplash.com/random/300x200?{{ category | first | slugify }}');">
       <a href="/category/{{ category | first | slugify }}">
@@ -20,12 +21,16 @@ permalink: /categories/
 
 <style>
 
+.categories-title{
+  padding-bottom: 20px;
+  
+}
+  
 .categories-cards {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
-  max-width: 800px;
 }
 
 .category-card {
