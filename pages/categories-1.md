@@ -22,7 +22,7 @@ permalink: /categories/
 <style>
 
 .categories-title{
-  padding-bottom: 20px;
+  background-color: #ED1C24;
   
 }
   
