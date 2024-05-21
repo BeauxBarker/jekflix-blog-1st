@@ -44,7 +44,7 @@
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.optimized_image %}
-                                        <img src="{{ site.baseurl }}{{ post.optimized_image }}">
+                                        <img src="{{ post.optimized_image }}">
                                     {% elsif post.image %}
                                         <img src="{{ site.baseurl }}{{ post.image }}">
                                     {% else %}
