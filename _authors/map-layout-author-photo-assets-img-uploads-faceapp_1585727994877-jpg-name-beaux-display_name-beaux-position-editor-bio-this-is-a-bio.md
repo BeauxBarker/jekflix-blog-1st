@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/faceapp_1585727994877.jpg
+photo: /assets/img/uploads/profile.png
 name: Beaux
 display_name: Beaux
 position: Editor
