@@ -22,7 +22,7 @@ Sublimation printing is a versatile and high-quality method for customizing vari
 Customizing shipping boxes with sublimation printing offers numerous benefits:
 
 * **Enhanced Branding**: Create visually appealing, custom-branded boxes that stand out.
-* **Cost-Effective Marketing**: Turn every package into a mobile advertisement for your brand.
+* **Cost-Effective Marketing**: Turn every package into a mobile advertisement for your brand at a very low cost. 
 * **Professional Appearance**: Impress customers with high-quality, vibrant prints that enhance the unboxing experience.
 
 ## What is SubliSnap?
@@ -38,8 +38,10 @@ SubliSnap is a coating designed to make non-polyester surfaces, such as cardboar
 * Sublimation printer
 * Sublimation paper
 * Heat-resistant tape
-* Heat press or convection oven
+* Heat press 
 * Protective gloves
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YHGXgl6-v5A?si=7zPRhA5_-ip8zScu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Step-by-Step Process
 
@@ -57,6 +59,16 @@ SubliSnap is a coating designed to make non-polyester surfaces, such as cardboar
 * **Consistent Coating**: Ensure an even application of SubliSnap to avoid any blotchy or uneven areas.
 * **Proper Alignment**: Take your time to align the sublimation paper correctly to prevent any misprints.
 * **Monitor Temperature and Time**: Follow the recommended settings for your equipment to avoid over or under-heating.
+
+## T﻿he Money you Save
+
+W﻿hat saves you the most money here is the ability to create branding at low quantities. To even get close to these savings you would need to purchase several thousand boxes to qualify for lower prices. If you are a small business this barrier to entry can be difficult, not just for the money spent but even having the room to store all these boxes. 
+
+* Sublimation paper 7 cents a sheet. 
+* Sublimation Ink 3 cents per letter page printed. 
+* B﻿lank box 9x6x2 white media mailer .65 cents each
+
+  T﻿he total for self printing comes out to .75 per box with a minimum order of 25 boxes. In contrast it cost $4.52 per box with a minimum order of 25 boxes. At 100 boxes this does drop down to $2.64 but you are still looking at more than 3 times the price and this is not inclusive of shipping. Sadly the amount you save still only drops to about $1.05 even when ordering 50K printed boxes. When your company needs 50k boxes, $1.05 per box would then be absolutely worth it. If you are not there yet, self printing is a great option as you scale. 
 
 ## Conclusion
 
