@@ -16,8 +16,6 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Categories
-    url: /categories
 email: beauxbarker@gmail.com
 # See: https://disqus.com/
 disqus_username: blogbybeaux
