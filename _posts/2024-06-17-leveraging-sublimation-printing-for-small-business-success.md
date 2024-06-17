@@ -4,7 +4,8 @@ layout: post
 title: Leveraging Sublimation Printing for Small Business Success
 subtitle: Save money through sublimation techniques
 description: "How to sublimate on cardboard: Sublimation printing on cardboard"
-optimized_image: /assets/img/uploads/dall·e-2024-06-16-18.36.07-a-surreal-and-dramatic-scene-showcasing-the-process-of-sublimation-printing.-in-the-foreground-there-is-a-realistic-heat-press-machine-with-a-vibrant.webp
+image: /assets/img/uploads/dall·e-2024-06-16-18.36.07-a-surreal-and-dramatic-scene-showcasing-the-process-of-sublimation-printing.-in-the-foreground-there-is-a-realistic-heat-press-machine-with-a-vibrant.webp
+optimized_image: ""
 category: sublimation
 tags:
   - Sublimation
