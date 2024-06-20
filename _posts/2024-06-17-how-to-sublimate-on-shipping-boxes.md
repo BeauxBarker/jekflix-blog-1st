@@ -68,7 +68,7 @@ W﻿hat saves you the most money here is the ability to create branding at low q
 * Sublimation Ink 3 cents per letter page printed. 
 * B﻿lank box 9x6x2 white media mailer .65 cents each
 
-  T﻿he total for self printing comes out to .75 per box with a minimum order of 25 boxes. In contrast it cost $4.52 per box with a minimum order of 25 boxes. At 100 boxes this does drop down to $2.64 but you are still looking at more than 3 times the price and this is not inclusive of shipping. Sadly the amount you save still only drops to about $1.05 even when ordering 50K printed boxes. When your company needs 50k boxes, $1.05 per box would then be absolutely worth it. If you are not there yet, self printing is a great option as you scale. 
+  T﻿he total for self printing comes out to .75 per box with a minimum order of 25 boxes. In contrast it cost $4.52 per box with a minimum order of 25 boxes for printed boxes. At 100 boxes this does drop down to $2.64 but you are still looking at more than 3 times the price and this is not inclusive of shipping. Sadly the amount you save still only drops to about $1.05 even when ordering 50K printed boxes. When your company needs 50k boxes, $1.05 per box would then be absolutely worth it. If you are not there yet, self printing is a great option as you scale. 
 
 ## Conclusion
 
