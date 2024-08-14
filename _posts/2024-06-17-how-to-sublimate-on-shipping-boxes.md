@@ -33,7 +33,7 @@ SubliSnap is a coating designed to make non-polyester surfaces, such as cardboar
 
 ### Materials Needed
 
-* SubliSnap spray
+* SubliSnap cardboard solution
 * Cardboard boxes or sheets
 * Sublimation printer
 * Sublimation paper
@@ -46,7 +46,7 @@ SubliSnap is a coating designed to make non-polyester surfaces, such as cardboar
 ### Step-by-Step Process
 
 1. **Prepare the Cardboard**: Start with a clean, dry cardboard surface. Ensure there are no dust or oils that could interfere with the coating process.
-2. **Apply SubliSnap**: Evenly spray a thin layer of SubliSnap onto the cardboard. Allow it to dry completely. This coating prepares the surface to accept sublimation inks.
+2. **Apply SubliSnap**: Evenly spread the solution onto the cardboard. The first box tends to get the most solution and you may need to wipe the excess off.
 3. **Print the Design**: Use a sublimation printer to print your design onto sublimation paper. Ensure the design is mirrored before printing.
 4. **Align and Tape**: Place the printed sublimation paper onto the coated cardboard, aligning it precisely. Secure it with heat-resistant tape to prevent any shifting during the transfer process.
 5. **Heat Press or Convection Oven**: 
@@ -66,13 +66,13 @@ W﻿hat saves you the most money here is the ability to create branding at low q
 
 * Sublimation paper 7 cents a sheet. 
 * Sublimation Ink 3 cents per letter page printed. 
-* B﻿lank box 9x6x2 white media mailer .65 cents each
+* B﻿lank box 9x6x4 white media mailer .65 cents each
 
-  T﻿he total for self printing comes out to .75 per box with a minimum order of 25 boxes. In contrast it cost $4.52 per box with a minimum order of 25 boxes for printed boxes. At 100 boxes this does drop down to $2.64 but you are still looking at more than 3 times the price and this is not inclusive of shipping. Sadly the amount you save still only drops to about $1.05 even when ordering 50K printed boxes. When your company needs 50k boxes, $1.05 per box would then be absolutely worth it. If you are not there yet, self printing is a great option as you scale. 
+  T﻿he total for self printing comes out to .75 per box with a minimum order of 25 boxes. In contrast it cost $4.52 per box with a minimum order of 25 boxes for printed boxes. At 100 boxes this does drop down to $2.64 but you are still looking at more than 3 times the price and this is not inclusive of shipping. Sadly the amount you save still only drops to about $1.05 even when ordering 50K printed boxes. When your company needs 50k boxes, $1.05 per box would then be absolutely worth it considering the time needed to make the boxes.  This solution allows you to invest your money where it makes sense. The idea here is not to keep using this product. The goal is to get you off the ground running with a strong brand and eventually get to a point to where when you need large quantities of boxes you have the space and funds to do so. 
 
 ## Conclusion
 
-Using SubliSnap to sublimate on cardboard is a game-changer for small businesses looking to enhance their branding. Custom shipping boxes not only improve the customer experience but also serve as a powerful marketing tool. Start experimenting with SubliSnap and sublimation printing to create unique, branded packaging that sets your business apart.
+The barrier to entry for branding your products can be steep when you are first starting out. Using SubliSnap to sublimate on cardboard is a game-changer for small businesses looking to enhance their branding. Custom shipping boxes not only improve the customer experience but also serve as a powerful marketing tool. Start experimenting with SubliSnap and sublimation printing to create unique, branded packaging that sets your business apart.
 
 By leveraging this innovative coating, you can expand the possibilities of sublimation printing and take your branding efforts to new heights.
 
