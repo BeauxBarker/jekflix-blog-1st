@@ -4,6 +4,7 @@ layout: post
 title: "Sublimation Printing: Everything You Need to Know"
 subtitle: What is Sublimation Printing?
 description: A how to guide on sublimation printing
+image: /assets/img/uploads/7ae31813-88cd-40d7-a404-f26bcc5ad074.jpg
 optimized_image: /assets/img/uploads/7ae31813-88cd-40d7-a404-f26bcc5ad074.jpg
 category: sublimation
 tags:
