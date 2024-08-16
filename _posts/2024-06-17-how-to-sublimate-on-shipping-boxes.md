@@ -17,6 +17,8 @@ paginate: false
 
 Sublimation printing is a versatile and high-quality method for customizing various products. While it is commonly used on fabrics and ceramics, you can expand its application to cardboard using SubliSnap, a specialized coating that makes cardboard receptive to sublimation inks. This innovation opens new possibilities for small businesses, especially in branding and customizing shipping boxes. 
 
+![SubliSnap Cardboard Sublimation Solution coating](/assets/img/uploads/box-bottle.png "SubliSnap Cardboard Sublimation Coating")
+
 ## Why Sublimate on Cardboard?
 
 Customizing shipping boxes with sublimation printing offers numerous benefits:
