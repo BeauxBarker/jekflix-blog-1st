@@ -4,6 +4,7 @@ layout: post
 title: The Best Sublimation Spray on the Market
 subtitle: Sublimation Sprays that ACTUALLY Work
 description: "Find the best sublimation sprays that actually work. "
+image: /assets/img/uploads/rendy-novantino-phc_jdliwu-unsplash.jpg
 category: sublimation
 tags:
   - Sublimation Spray
