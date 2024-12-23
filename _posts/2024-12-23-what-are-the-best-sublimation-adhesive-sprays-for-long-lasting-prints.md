@@ -7,6 +7,7 @@ description: Discover the best sublimation spray for flawless results, including
   SubliSnap, the top choice for sublimation on cotton. Learn about its
   residue-free finish, heat resistance, and eco-friendly formula for superior
   prints.
+image: /assets/img/uploads/pexels-polina-tankilevitch-3735631.jpg
 category: sublimation
 author: mranderson
 paginate: false
